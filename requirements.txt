@@ -1,0 +1,14 @@
+# Doctoralia Scraper Dependencies
+requests==2.31.0
+beautifulsoup4==4.12.3
+html5lib==1.1
+pandas==2.2.0
+aiohttp==3.9.3
+fake-useragent==1.4.0
+python-dotenv==1.0.1
+tqdm==4.66.2
+tenacity==8.2.3
+cloudscraper==1.2.71
+selenium==4.18.1
+webdriver-manager==4.0.1
+undetected-chromedriver==3.5.5
